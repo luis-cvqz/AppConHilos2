@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s3JGxMpMJvfguRempDVBIPSA51Y54Rverna0PjVMV99f2wX0kGol4nr8pCnJxfm7XTWGs9cWdnUMHk/scV3UMQ==",
+  "success": true,
+  "projectFilePath": "/home/luis/Source/dsr/AppConHilos2/AppConHilos2.csproj",
+  "expectedPackageFiles": [
+    "/home/luis/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.2/microsoft.aspnetcore.app.ref.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
